@@ -70,3 +70,12 @@ The agent is designed to play the *PoliMillionaire* live trivia game (15 progres
   * Pre-rendered evaluations, 36 publication-ready plots, and live-game analysis over 180+ sessions.
 
 > **Note**: The notebook contains pre-computed logs and all visual artifacts pre-rendered. Heavy API calls and full-dataset benchmarks are commented out to prevent accidental re-execution.
+
+---
+
+## Authors
+
+* **Filippo Galletta** — [GitHub](https://github.com/filippogalletta) • [LinkedIn](https://www.linkedin.com/in/filippogalletta/)
+* **Cosimo Giovanni Negri** — [GitHub](https://github.com/cosimonegri) • [LinkedIn](https://www.linkedin.com/in/cosimogiovanninegri/)
+* **Davide Paltrinieri** — [GitHub](https://github.com/PaltrinieriDavide/) • [LinkedIn](https://www.linkedin.com/in/davide-paltrinieri/)
+
